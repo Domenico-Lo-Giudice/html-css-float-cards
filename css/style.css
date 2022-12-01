@@ -11,6 +11,7 @@
 .container {
     width: 1200px;
     margin: 0 auto;
+    
 }
 
 .clearfix::after {
@@ -38,22 +39,22 @@ p {
 
 .column {
     background-color: black;
-    /* width: calc(100% / 3);
-    float: left; */
+    width: calc(100% / 3);
+    float: left; 
 }
 
-/* .column > img {
+ /* .column > img {
     width: 300px;
     float: left;
-}
+} */
 
-.column > p {
+
+/* .column > p {
     
     float: right;
 } */
 
-/* .column > img {
+ /* .column > img {
     width: 300px;
     float: left;
-} */
-
+}  */
