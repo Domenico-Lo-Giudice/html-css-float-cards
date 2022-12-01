@@ -48,8 +48,10 @@ p {
     background-color: black;
     width: calc(100% / 3);
     float: left; 
-    margin: 15px;
+    margin-bottom: 40px;
+    
 }
+
 
  .column > img {
     width: 100px;
@@ -62,7 +64,7 @@ p {
 
 .row {
     
-    width: 100rem;
+    width: 60rem;
     margin: 40px;
     
 }
@@ -75,3 +77,4 @@ h1 {
 img {
     padding-right: 15px;
 }
+
