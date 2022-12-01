@@ -32,8 +32,28 @@ p {
     color: white;
 }
 
+.container > p {
+    color: black;
+}
+
 .column {
     background-color: black;
-    width: 400px;
-    float:left;
+    /* width: calc(100% / 3);
+    float: left; */
 }
+
+/* .column > img {
+    width: 300px;
+    float: left;
+}
+
+.column > p {
+    
+    float: right;
+} */
+
+/* .column > img {
+    width: 300px;
+    float: left;
+} */
+
