@@ -46,9 +46,10 @@ p {
 
 .column {
     background-color: black;
-    width: calc(100% / 3);
+    width: calc(80% / 3);
     float: left; 
     margin-bottom: 40px;
+    margin-right: 30px;
     
 }
 
@@ -64,8 +65,10 @@ p {
 
 .row {
     
-    width: 60rem;
+    width: 85rem;
     margin: 40px;
+    
+   
     
 }
 
