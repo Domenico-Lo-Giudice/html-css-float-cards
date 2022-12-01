@@ -18,3 +18,22 @@
     clear: both;
     display: table;
 }
+
+body {
+    font-family: 'Fredoka One', sans-serif;
+}
+
+h1 {
+    color: #e53170;
+}
+
+h3,
+p {
+    color: white;
+}
+
+.column {
+    background-color: black;
+    width: 400px;
+    float:left;
+}
