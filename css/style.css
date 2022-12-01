@@ -43,10 +43,10 @@ p {
     float: left; 
 }
 
- /* .column > img {
-    width: 300px;
+ .column > img {
+    width: 150px;
     float: left;
-} */
+} 
 
 
 /* .column > p {
