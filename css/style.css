@@ -41,9 +41,14 @@ p {
     background-color: black;
     width: calc(100% / 3);
     float: left; 
+    margin: 10px;
 }
 
  .column > img {
-    width: 150px;
+    width: 100px;
     float: left;
 } 
+
+.email {
+    color: rgb(55, 122, 209);
+}
