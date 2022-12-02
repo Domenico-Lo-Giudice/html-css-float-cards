@@ -21,8 +21,10 @@
 }
 
 body {
-    font-family: 'Fredoka One', sans-serif;
+    font-family: 'Fredoka', sans-serif; 
+    
 }
+
 
 h1 {
     color: #e53170;
@@ -67,9 +69,7 @@ p {
     
     width: 85rem;
     margin: 40px;
-    
-   
-    
+       
 }
 
 h1 {
